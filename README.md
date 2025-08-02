@@ -1,7 +1,6 @@
 ## João Lucas Martinello
 
 Hi! I'm a software developer and computer science student (6th semester), currently working as a Freelance Web Developer. Experience with AI/ML, web development and data engineering. Developing a game in my free time.
-- Twitter: [@joaolm0](https://x.com/joaolm0)
 
 
 ---
